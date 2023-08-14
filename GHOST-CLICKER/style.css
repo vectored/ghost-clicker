@@ -1,0 +1,121 @@
+img {
+  padding: 0px;
+  margin: 0px;
+display:block;
+margin-left:auto;
+margin-right:auto; }
+
+body {
+  background: darkgray;
+  display:block;
+   padding: 0px;
+  margin: 0px;
+cursor: url(https://cur.cursors-4u.net/holidays/hol-4/hol333.png), auto;
+}
+
+#shoppy {
+  font-family:'creepster';
+  font-size: 22px;
+}
+
+.hehe {
+font-family: 'Eater';
+font-size: 22px;
+text-align: center; 
+    padding:0px;
+  margin: 0px;
+}
+.aubt {
+font-family: 'comic sans ms';
+font-size: 15px;
+  color: black;
+text-align: center; 
+  padding:0px;
+  margin: 0px;
+}
+
+.gr {
+font-family: 'comic sans ms';
+font-size: 10px;
+text-align: center; 
+  padding:0px;
+  margin: 0px;
+}
+
+.br {
+font-size: 13px;
+text-align: center; 
+  padding:0px;
+  margin: 0px;
+  color: white; 
+  font-family: "comic sans ms";
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+.sidenav {
+  height: 100%; 
+  width: 0;
+  z-index: 1;
+  top: 0; 
+  left: 0;
+  background-color: #111; 
+  overflow-x: hidden; 
+  padding-top: 60px; 
+  transition: 0.5s;
+   position: fixed; 
+  padding-bottom: 30px; 
+}
+
+
+.sidenav img {
+  text-decoration: none;
+  font-size: 25px;
+  width: 100px;
+  height: 100px;
+  transition: 0.3s;
+}
+
+.sidenav p {
+  color: white;
+  margin-right: 0px;
+   width:100%;
+    height:auto;
+ text-align: center;  
+
+}
+
+.sidenav a {
+  color: white;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  font-family: 'Eater';
+  top: 0;
+  right: 25px;
+  font-size: 20px;
+  margin-left: 50PX;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 20px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav button {font-size: 18px;}
+}
+
+.shopi {
+  color: white; 
+  font-family:'creepster';
+}
+
+.shops {
+  color: white; 
+  font-family:'comic sans ms';
+}
